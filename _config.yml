@@ -26,7 +26,7 @@ author:
   #bio              : "Short biography for the left-hand sidebar"
   employer         : "University of Padova"
   location         : "Office 261"
-  location_office: '<a href="https://www.stat.unipd.it">Department of Statistical Sciences</a>'
+  location_office  : '<a href="https://www.stat.unipd.it">Department of Statistical Sciences</a>'
   uri              : # URL
   email            : "virginia.murru@phd.unipd.it" 
 
