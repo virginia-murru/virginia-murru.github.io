@@ -25,7 +25,7 @@ author:
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   employer         : "University of Padova"
-  location         : location: "Office 261, <a href='https://www.stat.unipd.it'>Department of Statistical Sciences</a>"
+  location         : "Office 261, <a href='https://www.stat.unipd.it'>Department of Statistical Sciences</a>"
   uri              : # URL
   email            : "virginia.murru@phd.unipd.it" 
 
