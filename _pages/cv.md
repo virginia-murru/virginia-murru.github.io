@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics,University of Padova, 2023-Current
+* Ph.D in Statistics, University of Padova, 2023-Current
 * M.S. in Statistics, University of Padova, 2021-2023
 * B.S. in Statistics, University of Padova, 2018-2021
   
