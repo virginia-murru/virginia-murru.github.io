@@ -8,4 +8,4 @@ redirect_from:
 ---
 I am Ph.D. student in Statistics at [University of Padova](https://www.unipd.it), supervised by [Emanuele Aliverti](https://emanuelealiverti.github.io).
 
-My research interests focuses on categorical data analysis and social networks.
+My research interests focus on categorical data analysis and social networks.
