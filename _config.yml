@@ -21,11 +21,12 @@ repository               : "virginia-murru/virginia-murru.github.io"
 author:
   # Biographic information
   avatar           : "img.jpeg"
-  name             : "Virginia Murru"
+  #name             : "Virginia Murru"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
-  location         : "Padova"
   employer         : "University of Padova"
+  location         : "Office 261"
+  location_office  : "[Deparment of Statistical Sciences](https://www.stat.unipd.it)"
   uri              : # URL
   email            : "virginia.murru@phd.unipd.it" 
 
