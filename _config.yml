@@ -20,7 +20,7 @@ repository               : "virginia-murru/virginia-murru.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "img.jpeg"
   name             : "Virginia Murru"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
