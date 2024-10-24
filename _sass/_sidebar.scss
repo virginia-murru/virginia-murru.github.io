@@ -80,7 +80,6 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  border-radius: 0;
 
   @include breakpoint($large) {
     display: block;
@@ -90,7 +89,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
