@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 - Statistical Inference, University of Padova  
-  *Assistant Professor, Spring 2023*
+  *Teaching Assistant, Spring 2023*
 
 - Statistical Inference, University of Padova  
-  *Assistant Professor, Spring 2022*
+  *Teaching Assistant, Spring 2022*
 
 - Analysis I, University of Padova  
-  *Assistant Professor, Fall 2021*
+  *Teaching Assistantr, Fall 2021*
 
 
 
