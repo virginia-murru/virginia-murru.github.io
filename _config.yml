@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Virginia Murru"
+title                    : "Virginiaaaaaa Murru"
 title_separator          : "-"
-name                     : &name "Virginiaa Murru"
+name                     : &name "Virginia Murru"
 url                      : https://virginia-murru.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "virginia-murru/virginia-murru.github.io"
