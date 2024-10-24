@@ -16,7 +16,7 @@ redirect_from:
   *Teaching Assistant, Spring 2022*
 
 - Analysis I, University of Padova  
-  *Teaching Assistantr, Fall 2021*
+  *Teaching Assistant, Fall 2021*
 
 
 
