@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Have a look to my master thesis:
+Have a look at my master's thesis:
 
 
 Some projects completed during my master's degree and the first year of Ph.D.:
