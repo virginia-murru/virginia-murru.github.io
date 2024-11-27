@@ -13,4 +13,4 @@ Some projects completed during my master's degree and the first year of Ph.D.:
 - Analysis of the sensors present in a prosthetic hand
 - Car Insurance Analysis
 - Analysis of the Harry Potter saga: A text mining perspective
-  [HR_presentation](/links/HR-presentation.pdf)
+  [HP_presentation](/links/HP_presentation.pdf)
