@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-***Under consideration for publication***
-
+***Under consideration for publication***<br>
 [Variational Inference for Count Response Semiparametric Regression: A Convex Solution](https://arxiv.org/abs/2510.12356)  
 V. Murru, M. P. Wand
 
